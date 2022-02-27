@@ -1,3 +1,3 @@
-def call{
-echo "Hi ${name} how are you"
+def call(name){
+echo "Hi ${name}, how are you"
 }
